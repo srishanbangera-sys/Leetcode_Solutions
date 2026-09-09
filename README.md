@@ -9,6 +9,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -18,4 +19,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
