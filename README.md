@@ -11,6 +11,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Easy/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/srishanbangera-sys/Leetcode_Solutions/tree/main/Python3/Easy/0013-roman-to-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
